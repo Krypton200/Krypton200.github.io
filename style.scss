@@ -17,11 +17,7 @@ html {
   font-size: 100%;
 }
 
-body {
-	background-color: #77C9D4;
-  font: 18px/1.4 $helvetica;
-  color: #015249;
-}
+
 .box{
 background-color: #57BC90;
     position: absolute;
@@ -29,6 +25,11 @@ background-color: #57BC90;
   width: 60%;
   left: 20%;
   border-radius: 10px;
+
+body {
+	background-color: #77C9D4;
+  font: 18px/1.4 $helvetica;
+  color: #015249;
 }
 
 .container {
