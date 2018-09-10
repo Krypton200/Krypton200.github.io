@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We are the Knights who say 'Ni!'
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+"I think, therefore, I am."
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cooper.edwards@challoner.org](mailto:cooper.edwards@challoners.org)
