@@ -18,7 +18,7 @@
   <body>
     <div class="wrapper-masthead">
       <div class="container">
-        <header class="masthead clearfix">
+        <header class="masthead clearfix" id="noBox">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
@@ -38,7 +38,7 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+    <div class="wrapper-footer" id="noBox">
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
