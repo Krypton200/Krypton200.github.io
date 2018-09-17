@@ -1,5 +1,5 @@
 ---
-title: Starting a New
+title: Starting a-new
 layout: post
 author: cooper.edwards
 permalink: /starting-a-new/
