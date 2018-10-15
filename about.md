@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are the Knights who say 'Ni!'
+I'm just a poor, wayfairing coder...
 
 ### More Information
 
