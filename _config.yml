@@ -9,7 +9,7 @@ name: Cooper
 description: Ninja or Tfue? Who would win?
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:http: https://i.imgur.com/jkHdTAI.gif;
+avatar:https://kids.sandiegozoo.org/sites/default/files/2017-07/Hero_GettyImages-131405473.jpg;
 
 #
 # Flags below are optional
@@ -17,12 +17,13 @@ avatar:http: https://i.imgur.com/jkHdTAI.gif;
 
 # Includes an icon in the footer for each username you enter
 footer-links:
+  snapchat: Krypton200
   dribbble:
   email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:
+  instagram: Kypton200
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
