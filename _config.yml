@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Cooper
+name: Millenium X
 
 # Short bio or description (displayed in the header)
-description: Ninja or Tfue? Who would win?
+description: We are Millennium X and have five members, Finn, Jedd, Yonal, Cooper and Braden.  We formed the band a couple of years ago through school and have been practising together ever since.  As a band we started performing in front of small audiences consisting of parents and pupils before progressing onto larger school concerts and the Bucks Music Service Battle of the Bands competition.  We have a wide array of rock music influences including Bon Jovi, The Killers, Iron Maiden and The Arctic Monkeys.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://kids.sandiegozoo.org/sites/default/files/2017-07/Hero_GettyImages-131405473.jpg;
+avatar: https://wallpaperplay.com/walls/full/3/2/e/134385.jpg;
 
 #
 # Flags below are optional
@@ -17,13 +17,13 @@ avatar: https://kids.sandiegozoo.org/sites/default/files/2017-07/Hero_GettyImage
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  snapchat: Krypton200
+  snapchat:
   dribbble:
   email:
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram: Kypton200
+  instagram: 
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
